@@ -1,8 +1,7 @@
 # All Tech
 ### THE AUTO REPAIR SHOP DATABASE PROJECT
 
-**CIS 3400 - Section EMWA**
-
+**CIS 3400 - Database Management Systems**
 
 **Members**
 1. Eric Wong
