@@ -3,7 +3,7 @@
 
 **CIS 3400 - Database Management Systems**
 
-**Authors:**
+**Authors**
 1. Eric Wong
 2. Sujin Lim
 3. Jingwei Dong
