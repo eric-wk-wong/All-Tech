@@ -505,3 +505,22 @@ Private Sub Apartment_AfterUpdate()
     apartment = UCase(apartment)
 End Sub
 ```
+
+**Vehicle Service Form**
+
+![service entry form](service_data_entry_form.png)
+
+**Equipment Data Entry Form
+
+![vehicle equipment form](vehicle_equipment_form.png)
+
+**Customer Report**
+
+![customer report](customer_report.png)
+
+
+**Summary Report**
+
+![summary report](summary_report.png)
+
+---
