@@ -466,7 +466,7 @@ ALTER TABLE Vendor_Equipment
 
 **Navigation Form**
 
-![navigation_form](nagivation_form.png)
+![nvaigation form](navigation_form.png)
 
 **Customer Data Entry Form**
 
@@ -506,11 +506,11 @@ Private Sub Apartment_AfterUpdate()
 End Sub
 ```
 
-**Vehicle Service Form**
+**Service Data Entry Form**
 
-![service entry form](service_data_entry_form.png)
+![vehicle service form](vehicle_service_form.png)
 
-**Equipment Data Entry Form
+**Equipment Data Entry Form**
 
 ![vehicle equipment form](vehicle_equipment_form.png)
 
