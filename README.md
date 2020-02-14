@@ -83,7 +83,7 @@ One **Vendor** *may be* **supplying** *one or more* **Equipment**. </br>
 
 - **Equipment** (equipment_id(key), equipment_type, description, brand, standard_price)
 
-- **Service_Equipment* (service_id(fk)(key), equipment_id(fk)(key))
+- **Service_Equipment** (service_id(fk)(key), equipment_id(fk)(key))
 
 - **Vendor** (vendor_id(key), vendor_name, first_name, last_name, contact_number, street, city, state, zipcode)
 
