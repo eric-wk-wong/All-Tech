@@ -33,3 +33,6 @@ remaining equipment. Our techniques also aid in minimizing redundant information
 make smart business decisions, such as expanding our workforce or finding alternative suppliers.
 
 #### II. ER Model using UML Notation
+![er model](er_model.png)
+
+
